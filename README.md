@@ -8,7 +8,7 @@ Please do not change any of the methods that are already implemented, any of the
 
 ## Playing a Game Against the AI
 
-Run `python3 ai.py` when in the same directory as the source files. Your Python command may be defined as `python` instead of `python3`.
+Run `python3 play.py` when in the same directory as the source files. Your Python command may be defined as `python` instead of `python3`.
 
 ## Testing
 Run `python3 connectfour_tests.py` when in the source's directory to run all of the unit tests. Your Python command may be defined as `python` instead of `python3`.
