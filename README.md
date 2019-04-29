@@ -30,7 +30,7 @@ Your game must use the included implementation of the minimax/alphabeta algorith
 
 1. Use the contents of the repository as starter code, copying it into a private repository of your own that you create.
 
-2. Add us as collaborators on the repository on GitHub.
+2. Add us (@davecom, @brianrhall, @jblumberg) as collaborators on the repository on GitHub.
 
 3. Fill in the functions with the missing code and add any additional utility functions that you see fit.
 
